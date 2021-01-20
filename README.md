@@ -3,7 +3,7 @@
 - Class Date: Jan 19, 2020
 - Facilitator: @ericalloyd
 
-## Talk to Me!!
+## Talk to GitHub!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @ericalloyd**.
 
