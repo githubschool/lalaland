@@ -16,7 +16,7 @@
 
 ### After Class Activities:
 
-#### 1. Complete a code review of someone else's slide file.
+#### 1. Complete a code review of your partner's slide file.
   - Since you're partnered, and everyone wants a review, both you and your partner should complete a review of different pull requests.
   - Find an open pull request with no review in the class repository
   - Leave a review of the changes within the pull request (Not sure how? [Click here](https://help.github.com/articles/about-pull-request-reviews/) for more information.)
